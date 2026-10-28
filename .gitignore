@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+data/x_posts_180d.csv
+data/x_post_*.csv
