@@ -274,7 +274,3 @@ API tokens must be supplied separately through a secure channel. Do not place to
 ## Disclaimer
 
 This project is an educational machine-learning research prototype. Predictions and simulated trading metrics are not investment recommendations, and the model should not be used to make real-money trading decisions.
-
-## Author
-
-Developed as part of the CrowdWisdomAI internship assessment.
